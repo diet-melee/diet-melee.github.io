@@ -3,6 +3,11 @@
     src: url("/fonts/Montserrat/Montserrat-Regular.ttf");
 }
 
+@font-face {
+    font-family: 'Lokicola';
+    src: url("/fonts/Lokicola/lokicola.ttf")
+}
+
 a {
     color: #aaaaaa;
     font-family: Montserrat;
@@ -85,6 +90,11 @@ p {
     z-index: 1;
 }
 
+.nav-pad {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
 .black {
     color: #ffffff;
     background-color: #000000;
@@ -116,6 +126,17 @@ p {
 
 .twitter {
     background-color: #1DA1F2;
+}
+
+.logo-font {
+    font-family: Lokicola;
+    font-size: 36px;
+    color: #dc1d25;
+}
+
+.logo-size {
+    width: auto;
+    height: 36px;
 }
 
 .center {

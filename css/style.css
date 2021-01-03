@@ -1,0 +1,198 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url("/fonts/montserrat/Montserrat-Regular.ttf");
+}
+
+a {
+    color: #aaaaaa;
+    font-family: Montserrat;
+}
+
+body {
+    font-family: Montserrat;
+    background-image: url("/images/graphics/noise.png"), url("/images/graphics/noise2.png"), linear-gradient(to right, #666677, #bbbbcc, #9999aa, #bbbbcc, #666677);
+    background-repeat: repeat;
+    background-color: #cccccc;
+    display: block;
+    margin: 0px;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 56px;
+    padding: 20px;
+    margin: 0px;
+}
+
+h2 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 36px;
+    padding: 16px;
+    margin: 0px;
+}
+
+p {
+    color: #ffffff;
+    font-size: 20px;
+    margin: 8px;
+}
+
+.light-font {
+    color: #dddddd;
+    font-family: Montserrat;
+    font-size: 26px;
+}
+
+.title-image {
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 1600px;
+}
+
+.icons {
+    font-size: 36px;
+}
+
+.top-pad {
+    padding-top: 10px;
+}
+
+.top-pad2 {
+    padding-top: 20px;
+}
+
+.bottom-pad {
+    padding-bottom: 20px
+}
+
+.bar {
+    width: 60%;
+    overflow: hidden;
+    font-family: Montserrat;
+}
+
+.nav-bar{
+    width: 60%;
+    overflow: hidden;
+    position: fixed;
+    z-index: 1;
+}
+
+.black {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.button {
+    padding: 8px 16px;
+    vertical-align: middle;
+    display: inline-block;
+    outline: none;
+    overflow: hidden;
+    cursor: pointer;
+    text-decoration: none;
+    white-space: nowrap;
+    font-family: Veranda, sans-serif;
+}
+
+.discord-button {
+    background-color: #7289da;
+    border-radius: 5px;
+    top: 4px;
+}
+
+.center {
+    text-align: center;
+}
+
+.warning-text {
+    color: #ff3333;
+    text-align: center;
+}
+
+.medium {
+    font-size: 16px;
+}
+
+.content {
+    padding-top: 40px;
+}
+
+.main {
+    flex-flow: column wrap;
+}
+
+.alt {
+    flex-wrap: wrap;
+}
+
+.container {
+    margin: auto;
+    width: 90%;
+    display: flex;
+    background-image: url("/images/graphics/condensation3.png");
+    background-size: 300px 300px;
+    border-radius: 16px;
+}
+
+.item {
+    background-color: rgba(0.4, 0.4, 0.4, 0.6);
+    flex-grow: 1;
+    border: 5px #333;
+    border-radius: 16px;
+}
+
+.footer-padding {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.gallery {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+
+.gallery-image {
+    height: auto;
+    width: 100%;
+}
+
+@media only screen and (min-width: 576px) {
+    .gallery-image {
+        margin: 8px;
+        height: 300px;
+        width: auto;
+    }
+}
+
+.image-wrapper {
+    padding: 8px;
+}
+
+.grid-container {
+    display: grid;
+}
+
+.video-frame {
+    width: 100%;
+    max-width: 600px;
+    height: 420px;
+}
+
+.twt-section {
+    flex-shrink: 3;
+    margin-left: 10px;
+    overflow: auto;
+    height: 600px;
+    max-height: 600px;
+    width: 100%;
+    max-width: 100%;
+}

@@ -102,10 +102,20 @@ p {
     font-family: Veranda, sans-serif;
 }
 
-.discord-button {
-    background-color: #7289da;
+.alt-button {
     border-radius: 5px;
-    top: 4px;
+}
+
+.discord {
+    background-color: #7289da;
+}
+
+.patreon {
+    background-color: #f96854;
+}
+
+.twitter {
+    background-color: #1DA1F2;
 }
 
 .center {

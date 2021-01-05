@@ -176,6 +176,11 @@ p {
     border-radius: 16px;
 }
 
+.item-bg {
+    background-image: url("/images/graphics/condensation3.png");
+    background-size: 300px 300px;
+}
+
 .item {
     background-color: rgba(0.4, 0.4, 0.4, 0.6);
     flex-grow: 1;

@@ -12,4 +12,4 @@ Once you have created your file and named it in the format **{release_#-#}.md** 
 #### Some useful links for you to use for writing your changelog stuff:
 
 - [Formatting guide for Markdown language](https://www.markdownguide.org/basic-syntax/)
-- [Semantic versioning guide](https://semver.org/) (for naming your files based on the changelogs version, just read the summary section at the beginning of this document)
+- [Semantic versioning guide](https://semver.org/) (for naming your changelog files, just read the summary section at the beginning of the link)

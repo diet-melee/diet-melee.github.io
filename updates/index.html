@@ -48,16 +48,15 @@ layout: default
         </h1>
         <body>
             <div class="main container">
-                <!--{% for post in site.posts %}
+                {% for update in site.updates %}
                     <div class="item">
-                        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                        <div class="entry">
-                            {{ post.excerpt }}
-                        </div>
-                        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+                        <h2>{{ update.title }}</h2>
+                        <p>
+                            {{ update.content | markdownify }}
+                        </p>
                     </div>
                     <br>
-                {% endfor %}-->
+                {% endfor %}
                 <div class="item">
                     <h2>New Changes in Alpha 3:</h2>
                     <p>

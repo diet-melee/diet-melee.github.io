@@ -1,6 +1,6 @@
 ---
 layout: default
-title: New Changes in Alpha 2
+title: New Changes in Alpha v2
 ---
 
 Another Test of the formatting in Jekyll 2

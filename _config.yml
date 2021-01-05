@@ -1,1 +1,9 @@
 name: Diet Melee
+
+collections_dir: collections
+
+collections:
+    updates:
+        output: true
+    faqs:
+        output: true

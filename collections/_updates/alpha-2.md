@@ -3,8 +3,6 @@ layout: default
 title: New Changes in Alpha v2
 ---
 
-Another Test of the formatting in Jekyll 2
-
 - FD has a brand new beautiful model, and of course it’s way more efficient.
 - Updated Battlefield ledges to closer reflect how the Battlefield ledges “feel” in vanilla Melee.
 - Removed Battlefield’s background to unify the looks of all the stages in the project.

@@ -58,7 +58,10 @@ p {
 
 .responsive {
     width: 100%;
-    max-width: 1600px;
+}
+
+.title-logo {
+    max-width: 1400px;
 }
 
 .icons {

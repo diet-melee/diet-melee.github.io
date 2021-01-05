@@ -2,7 +2,7 @@
 This is the repo for the codebase of the Github pages hosted site Diet Melee
 
 ### Devs:
-If you are trying to add things to the Changelog or the FAQ, download the following template files and rename them of the changelog update you are submitting or just the next number unusued in the case of the FAQ (we can reformat it later based on where it should go)
+If you are trying to add things to the Changelog or the FAQ, download the following template files and rename them of the changelog update you are submitting or just the next unused number (found in the /collections/_faqs folder) in the case of the FAQ (we can reformat it later based on where it should go)
 
 - [changelog-template.md](https://raw.githubusercontent.com/diet-melee/diet-melee.github.io/main/example-md/changelog-template.md)
 - [faq-template.md](https://raw.githubusercontent.com/diet-melee/diet-melee.github.io/main/example-md/faq-template.md)

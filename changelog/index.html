@@ -48,11 +48,11 @@ layout: default
         </h1>
         <body>
             <div class="main container">
-                {% for update in site.updates reversed %}
+                {% for log in site.changelogs reversed %}
                     <div class="item">
-                        <h2>{{ update.title }}</h2>
+                        <h2>{{ log.title }}</h2>
                         <p>
-                            {{ update.content }}
+                            {{ log.content }}
                         </p>
                     </div>
                     <br>

@@ -3,7 +3,7 @@ name: Diet Melee
 collections_dir: collections
 
 collections:
-    updates:
+    changelogs:
         output: true
     faqs:
         output: true

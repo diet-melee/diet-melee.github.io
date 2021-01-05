@@ -48,7 +48,7 @@ layout: default
         </h1>
         <body>
             <div class="main container">
-                {% for update in site.updates %}
+                {% for update in site.updates reversed %}
                     <div class="item">
                         <h2>{{ update.title }}</h2>
                         <p>

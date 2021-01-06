@@ -1,9 +1,9 @@
 ---
 layout: guide
-title: Running Diet Melee with Uncle Punch Guide
+title: Running Diet Melee with Uncle Punch or 20XX Guide
 ---
 
-# Running Diet Melee with Uncle Punch Guide
+# Running Diet Melee with Uncle Punch or 20XX Guide
 
 What you need:
 
@@ -44,4 +44,4 @@ What you need:
 
 12\. Open dolphin, and follow [this tutorial](https://docs.google.com/document/d/1EasOZ7hNq2I6AU3Cf1NHAA4YTlAGohAjyD6RArFBPlE/edit?usp=drivesdk)
 
-13\. Open UP. It should Diet Melee-ified now (at least in terms of performance)
+13\. Open UP or 20XX. It should Diet Melee-ified now (at least in terms of performance)

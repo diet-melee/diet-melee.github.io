@@ -26,11 +26,19 @@ What you need:
 
 ![image](\images\guides\dat-4.png)
 5\. Export them to your desktop.
+
 6\. Click file, open ISO, and open your Uncle Punch Training Pack ISO.
+
 7\. Click Stages.
+
 8\. Highlight GrLz.dat, then click import.
+
 9\. Replace it with the GrLz.dat on your desktop.
+
 10\. Now, do the same thing for GrNBa.dat, GrNLa.dat, GrOp.dat, GrPs.usd, GrSt.dat.
+
 11\. Click file, then save ISO.
+
 12\. Open dolphin, and follow [this tutorial](https://docs.google.com/document/d/1EasOZ7hNq2I6AU3Cf1NHAA4YTlAGohAjyD6RArFBPlE/edit?usp=drivesdk)
+
 13\. Open UP. It should Diet Melee-ified now (at least in terms of performance)

@@ -14,18 +14,22 @@ What you need:
 
 1\. Open DAT Texture Wizard. It should look like this.
 
+{:.md-img}
 ![image of DAT default view](\images\guides\dat-1.png)
 
 2\. Click file, open ISO, select your Diet Melee ISO. You should see this.
 
+{:.md-img}
 ![image of DAT Diet Melee view](\images\guides\dat-2.png)
 
 3\. Now, click Stages. The blue button, above the main viewing area and below the “file” stuff.
 
+{:.md-img}
 ![image of stages clicked in DAT](\images\guides\dat-3.png)
 
 4\. Hold ctrl, click on GrIz.dat, GrNBa.dat, GrNLa.dat, GrOp.dat, GrPs.usd, GrSt.dat, then click export.
 
+{:.md-img}
 ![image of all the selected files to be group selected](\images\guides\dat-4.png)
 
 5\. Export them to your desktop.

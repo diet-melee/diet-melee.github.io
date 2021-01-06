@@ -85,6 +85,10 @@ blockquote {
     width: 100%;
 }
 
+.md-img {
+    width: 100%;
+}
+
 .title-logo {
     max-width: 1400px;
 }

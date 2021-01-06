@@ -15,6 +15,7 @@ This is a code to make Melee run with lower poly player characters, thus slightl
 
 4\. Make sure you copy and paste this text, so that your GALE01.ini looks like this:
 
+{:.md-img}
 ![codes in the GALE01.ini file](/images/guides/perf-2.png)  
 
 $Low-Poly v2 [UnclePunch,Yakult]  
@@ -40,6 +41,7 @@ C20748DC 0000000E
 
 7\. Click on “Gecko Codes” in the top middle of the properties window.
 
+{:.md-img}
 ![Gecko Codes tab](/images/guides/perf-3.png)
 
 8\. Make sure it’s checked on.

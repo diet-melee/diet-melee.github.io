@@ -7,3 +7,7 @@ collections:
         output: true
     faqs:
         output: true
+    guides:
+        output: true
+    downloads:
+        output: true

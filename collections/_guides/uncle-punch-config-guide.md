@@ -10,6 +10,8 @@ What you need:
 - [DAT Texture Wizard](https://smashboards.com/threads/dat-texture-wizard-current-version-6-1-1.373777/)
 - [A Functional unranked compatible Diet Melee ISO](https://diet.melee.tv/download/)
 
+
+
 1\. Open DAT Texture Wizard. It should look like this.
 
 ![image](\images\guides\dat-1.png)

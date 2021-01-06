@@ -38,7 +38,7 @@ General computer speed up tips:
 
 If after all of this you’re still having issues running Melee, try the Force Simple Stage Geometry gecko code. This tutorial’s screenshots are from a different guide but just use context clues to figure out what to put where.
 
-[image]()
+[fox simple geo](/images/guides/perf-1.png)
 
 >[Gecko_Enabled]
 >$Required: General Codes
@@ -61,11 +61,11 @@ If after all of this you’re still having issues running Melee, try the Force S
 2. Select Properties
 3. Click “Edit Config” in the bottom left corner of the properties window. This will open up GALE01.ini
 4. Make sure you copy and paste the above text, so that your GALE01.ini looks something like this.
-[image]()
+[codes GALE01](/images/guides/perf-2.png)
 5. File > save.
 6. Close GALE01.ini
 7. Click on “Gecko Codes” in the top middle of the properties window.
-[image]()
+[Gecko Codes](/images/guides/perf-3.png)
 8. Make sure it’s checked on.
 9. Press close.
 10. Start Melee, should be even better performance now.

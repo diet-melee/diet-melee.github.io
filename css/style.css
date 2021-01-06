@@ -86,8 +86,8 @@ blockquote {
 }
 
 .md-img {
-    width: 100%;
-    height: auto;
+    display: flex;
+    flex-flow: wrap;
 }
 
 .title-logo {
@@ -224,6 +224,11 @@ blockquote {
 }
 
 .gallery-image {
+    height: auto;
+    width: 100%;
+}
+
+img {
     height: auto;
     width: 100%;
 }

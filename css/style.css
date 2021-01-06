@@ -59,6 +59,12 @@ li {
     margin: 8px;
 }
 
+blockquote {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+
+}
+
 .language-plaintext {
     color: #ffffff;
 }

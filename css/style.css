@@ -38,6 +38,14 @@ h2 {
     margin: 0px;
 }
 
+h3, h4, h5 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 36px;
+    padding: 16px;
+    margin: 0px;
+}
+
 p {
     color: #ffffff;
     font-size: 20px;

@@ -41,20 +41,35 @@ If after all of this you’re still having issues running Melee, try the Force S
 [fox simple geo](/images/guides/perf-1.png)
 
 >[Gecko_Enabled]
+
 >$Required: General Codes
+
 >$Required: Slippi Recording
+
 >$Required: Slippi Online
+
 >$Recommended: Normal Lag Reduction
+
 >$Recommended: Polling drift fix + VB
+
 >-Optional: Widescreen 16:9
+
 >-Optional: Disable Screen Shake
+
 >-Optional: Center Align 2P HUD
+
 >-Optional: Flash Red on Failed L-Cancel
+
 >$HUD Transparency v1.1
+
 >$Force Simple Background and Stage Geometry [Punkline]
+
 >[Gecko]
+
 >$Force Simple Background and Stage Geometry [Punkline]
+
 >04028d64 60000010
+
 >0405a2e8 60000000
 
 1. Right click your vanilla iso

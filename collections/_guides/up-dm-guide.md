@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: guide
 title: Diet Melee with Uncle Punch Guide
 ---
 

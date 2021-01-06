@@ -25,6 +25,7 @@ What you need:
 4\. Hold ctrl, click on GrIz.dat, GrNBa.dat, GrNLa.dat, GrOp.dat, GrPs.usd, GrSt.dat, then click export.
 
 ![image](\images\guides\dat-4.png)
+
 5\. Export them to your desktop.
 
 6\. Click file, open ISO, and open your Uncle Punch Training Pack ISO.

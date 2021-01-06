@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 <html>
@@ -31,6 +31,7 @@ layout:default
                 <a href="/" class="button logo-font"><img class="logo-size" src="/images/graphics/dm-logo.png"></img>DM</a>
                 <a href="/changelog/" class="button light-font">Changelog</a>
                 <a href="/download/" class="button light-font">Download</a>
+                <a href="/guides/" class="button light-font">Guides & Tips</a>
                 <a href="/faq/" class="button light-font">FAQ</a>
                 <a href="/about/" class="button light-font">About</a>
                 <a href="https://discord.gg/PwpcPtkRwU" class="discord alt-button button light-font"><i class="fab fa-discord icons" data-fa-transform="shrink-4 down-6"></i> Discord</a>
@@ -44,7 +45,7 @@ layout:default
             <img class="responsive title-logo" src="/images/graphics/Logo-Only.png"></img>
         </div>
         <h1>
-            Download Guide
+            Guides Page
         </h1>
         <body>
             <div class="main container">
@@ -53,43 +54,16 @@ layout:default
                 </div>
                 <br>
                 <div class="item">
-                    <p class="warning-text">Both sets of instructions will make a new iso, and not replace or overwrite your vanilla iso. Your normal Melee is safe.</p>
+                    <ul>
+                        {% for guide in site.guides %}
+                            <li>
+                                <a href="{{ guide.url }}">{{ guide.title }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
                 </div>
                 <br>
-                <div class="item">
-                    <h2>How to install on Windows:</h2>
-                    <p>
-                        1. Download <a href="https://www.mediafire.com/file/wimyel1g2b7owez/DietMeleeAlpha3.zip/file">DietMeleeAlpha3.zip</a><br> <!-- <button>Download DietMeleeAlpha2</button> -->
-                        2. Extract the main folder, DietMeleeAlpha2<br>
-                        3. Open Dolphin, the one you use for rollback/slippi(and make sure its up to date), and right click your vanilla Melee iso, then click “open containing folder”. See where your vanilla ISO is stored in your computer.<br>
-                        4. Once you’ve found your Melee ISO, drag it on to “Drag your NTSC 1.02 ISO here.bat”<br>
-                        5. It will generate DietMelee.iso in the Diet Melee folder if everything went right.<br>
-                        6. Put this iso in the same folder as your vanilla Melee iso, and then refresh dolphin. Diet Melee should show up as a separate ISO.<br>
-                        You should be good to go, and it should be compatible with unranked, direct, and doubles.<br>
-                        If you still have any problems, make sure to first check the <a href="/faq/">FAQ</a>
-                    </p>
-                    <div class="gallery">
-                        <iframe class="center video-frame" src="https://www.youtube.com/embed/ai6eq-ueSFM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-                    </div>
-                    <br>
-                </div>
-                <br>
-                <div class="item">
-                    <h2>How to install on Mac:</h2>
-                    <p>
-                        1. Download <a href="https://projects.sappharad.com/tools/multipatch.html">MultiPatch</a><br>
-                        2. Download <a href="https://www.mediafire.com/file/wimyel1g2b7owez/DietMeleeAlpha3.zip/file">DietMeleeAlpha3.zip</a><br>
-                        3. Extract the main folder, DietMeleeAlpha2<br>
-                        3a (optional; This step is just for finding your vanilla ISO, if you know where it is, skip it.) Open Dolphin, the one you use for rollback/slippi(and make sure its updated), and right click your vanilla Melee iso, then click “open containing folder”. See where your vanilla ISO is stored in your computer.<br>
-                        4. Open MultiPatch<br>
-                        5. For the first field, find “patch.xdelta” in the DietMeleeAlpha2 folder.<br>
-                        6. Second field, put in your vanilla ISO you just found in your Dolphin.<br>
-                        7. Third field, browse to the folder your vanilla ISO is in, then put in DietMeleeAlpha2.iso. Click Save.<br>
-                        8. Patch.<br>
-                        You’re good to go and have Diet Melee installed on Mac!<br>
-                        If you still have any problems, make sure to first check the <a href="/faq/">FAQ</a>
-                    </p>
-                </div>
+
             </div>
         </body>
         <br>

@@ -3,6 +3,7 @@ layout: guide
 title: How to get Some Extra Performance from Diet Melee
 ---
 
+# How to get Some Extra Performance from Diet Melee
 
 *This guide is a work in progress. Join the discord and let us know if you have any feedback for it or think there’s anything else we should add to it!*
 
@@ -38,7 +39,7 @@ General computer speed up tips:
 
 If after all of this you’re still having issues running Melee, try the Force Simple Stage Geometry gecko code. This tutorial’s screenshots are from a different guide but just use context clues to figure out what to put where.
 
-[fox simple geo](/images/guides/perf-1.png)
+![fox simple geo](/images/guides/perf-1.png)
 
 >[Gecko_Enabled]
 
@@ -77,12 +78,12 @@ If after all of this you’re still having issues running Melee, try the Force S
 3. Click “Edit Config” in the bottom left corner of the properties window. This will open up GALE01.ini
 4. Make sure you copy and paste the above text, so that your GALE01.ini looks something like this.
 
-[codes GALE01](/images/guides/perf-2.png)
+![codes in the GALE01.ini file](/images/guides/perf-2.png)
 5. File > save.
 6. Close GALE01.ini
 7. Click on “Gecko Codes” in the top middle of the properties window.
 
-[Gecko Codes](/images/guides/perf-3.png)
+![Gecko Codes](/images/guides/perf-3.png)
 8. Make sure it’s checked on.
 9. Press close.
 10. Start Melee, should be even better performance now.

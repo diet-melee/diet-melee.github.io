@@ -13,12 +13,15 @@ What you need:
 1\. Open DAT Texture Wizard. It should look like this.
 
 ![image](\images\guides\dat-1.png)
+
 2\. Click file, open ISO, select your Diet Melee ISO. You should see this.
 
 ![image](\images\guides\dat-2.png)
+
 3\. Now, click Stages. The blue button, above the main viewing area and below the “file” stuff.
 
 ![image](\images\guides\dat-3.png)
+
 4\. Hold ctrl, click on GrIz.dat, GrNBa.dat, GrNLa.dat, GrOp.dat, GrPs.usd, GrSt.dat, then click export.
 
 ![image](\images\guides\dat-4.png)

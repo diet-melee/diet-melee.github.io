@@ -50,13 +50,13 @@ layout: default
         <body>
             <div class="main container">
                 {% for log in site.changelogs reversed %}
+                    <br>
                     <div class="item">
                         <h2>{{ log.title }}</h2>
                         <p>
                             {{ log.content }}
                         </p>
                     </div>
-                    <br>
                 {% endfor %}
             </div>
         </body>

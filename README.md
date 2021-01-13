@@ -3,7 +3,7 @@ This is the repo for the codebase of the Github pages hosted site Diet Melee
 
 ### Users (or people who just want to play the game):
 
-What are you doing here? Head on over ot our site at https://diet.melee.com
+What are you doing here? Head on over ot our site at https://diet.melee.tv
 
 ### Devs:
 If you are trying to add a new section to the Changelog or the FAQ, download the following template files and rename them of the changelog update you are submitting (or just the next unused number, found in the /collections/_faqs folder in the case of the FAQ; we can reformat it later based on where it should go)

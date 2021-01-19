@@ -225,6 +225,7 @@ blockquote {
 img {
     height: auto;
     width: 100%;
+    max-width: 400px;
 }
 
 @media only screen and (min-width: 576px) {

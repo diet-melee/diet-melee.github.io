@@ -5,8 +5,6 @@ title: How to Decompress an NKit File for Patching with Diet Melee
 
 # How to decompress an NKit file for Patching with Diet Melee
 
-This is a code to make Melee run with lower poly player characters, thus slightly reducing the strain on your computer if you’re running a weak computer.
-
 1\. Go to [this site](https://vimm.net/vault/?p=nkit) and download the NKit 1.4 + GC Partitions
 
 2\. Extract the 7zip

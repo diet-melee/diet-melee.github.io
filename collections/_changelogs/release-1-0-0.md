@@ -10,11 +10,13 @@ title: New Changes in version 1.0.0
 - Yoshi's tongue is now visible.
 - Default Ness shoes now visible.
 
+
 - Fountain of Dreams background darkened, flowy stars removed.
 - Stadium model updated to appear more like vanilla Melee.
 - Battlefield model updated to appear more like vanilla Melee.
 - Dreamland background darkened.
 - Final Destination tweaked for aesthetics.
+
 
 - Diet Melee 64 added.
 - Diet Crystal Melee added.

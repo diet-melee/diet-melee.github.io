@@ -3,20 +3,22 @@ layout: default
 title: New Changes in version 1.0.0
 ---
 
-- Diet Melee Alpha 3 to Diet Melee Classic Version 1.0:
-- Character Select Screen updated for Diet Melee.
-- Stage Select Screen updated to only have the 6 available stages.
-- Puff's eyes properly open and close.
-- Yoshi's tongue is now visible.
-- Default Ness shoes now visible.
+###Major Additions
+    - Diet Melee 64 added.
+    - Diet Crystal Melee added.
+    - New Patcher to install all 3 versions.
 
-
-- Fountain of Dreams background darkened, flowy stars removed.
-- Stadium model updated to appear more like vanilla Melee.
-- Battlefield model updated to appear more like vanilla Melee.
-- Dreamland background darkened.
-- Final Destination tweaked for aesthetics.
-
-
-- Diet Melee 64 added.
-- Diet Crystal Melee added.
+###Changes from Diet Melee Alpha v3 to Diet Melee Classic v1.0 (just Classic):
+- UI Changes
+    - Character Select Screen updated for Diet Melee.
+    - Stage Select Screen updated to only show the 6 available stages.
+- Stage Changes
+    - Stadium model updated to appear more like vanilla Melee.
+    - Battlefield model updated to appear more like vanilla Melee.
+    - Fountain of Dreams background darkened, flowy stars removed.
+    - Dreamland background darkened.
+    - Final Destination tweaked for aesthetics.
+- Character Changes
+    - Puff's eyes properly open and close.
+    - Yoshi's tongue is now visible.
+    - Default Ness' shoes now visible.

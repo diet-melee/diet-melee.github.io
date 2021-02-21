@@ -3,12 +3,12 @@ layout: default
 title: New Changes in version 1.0.0
 ---
 
-### Major Additions
+Major Additions
 - Diet Melee 64 added.
 - Diet Crystal Melee added.
 - New Patcher to install all 3 versions.
 
-### Changes from Diet Melee Alpha v3 to Diet Melee Classic v1.0 (just Classic):
+Changes from Diet Melee Alpha v3 to Diet Melee Classic v1.0 (just Classic):
 - UI Changes
     - Character Select Screen updated for Diet Melee.
     - Stage Select Screen updated to only show the 6 available stages.

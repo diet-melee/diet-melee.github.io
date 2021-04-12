@@ -9,7 +9,7 @@ Note: ONLY USE THIS GUIDE IF YOU HAVE EXHAUSTED ALL OPTIONS WITH THE STANDARD WI
 
 1\. Download [this file](http://www.mediafire.com/file/m1tbybskj2z89ry/xdeltaUI.rar/file) named xdeltaUI.rar
 
-2\. Download the xdelta corresponding to your desired version of Diet Melee [here](http://www.mediafire.com/folder/i38q3v9neh9e8/dm1.01+xdeltas)
+2\. Download the xdelta corresponding to your desired version of Diet Melee [here](https://www.mediafire.com/folder/07h587ub2nb6t/Diet_Melee_1.02)
 
 3\. Extract the xdeltaUI rar file.
 

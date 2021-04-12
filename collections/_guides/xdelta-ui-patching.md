@@ -19,7 +19,7 @@ Note: ONLY USE THIS GUIDE IF YOU HAVE EXHAUSTED ALL OPTIONS WITH THE STANDARD WI
 
 6\. Press 'Open' next to the second box named 'Source File' and navigate to the location of your vanilla Melee iso, click on the iso, and press 'Open' in the lower right. YOU WILL NOT LOSE THIS ISO, DO NOT WORRY.
 
-7\. Press '...' next to the third box named 'Output File', navigate to the same directory you keep your vanilla Melee iso, and name it something like 'Diet-Melee-[version_name]1-0-1.iso' in the box called file name at the bottom and press 'Save' (version_name should correspond to whichever .xdelta version you downloaded for ease-sake).
+7\. Press '...' next to the third box named 'Output File', navigate to the same directory you keep your vanilla Melee iso, and name it something like 'Diet-Melee-[version_name]1-0-2.iso' in the box called file name at the bottom and press 'Save' (version_name should correspond to whichever .xdelta version you downloaded for ease-sake).
 
 8\. Press 'Patch', and the file should be located in the same directory as your vanilla Melee ISO, and if you set Dolphin to use that directory as a library, you should be able to just refresh Dolphin and see the new iso inside.  
 
